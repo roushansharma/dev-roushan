@@ -21,7 +21,7 @@ function Footer(){
                     </Col>
                     <Col md={4}>
                         <div className="frt_border h-100 centerCon">
-                            <a href="#home"><img src="images/logo.png" /></a>
+                            <a href="#home"><img src="Images/logo.png" /></a>
                             <p className="mt-4 text-dark fs-14">&copy; 2022. All right reserved.</p>
                         </div>
                     </Col>
@@ -34,7 +34,7 @@ function Footer(){
                 </Row>
             </Container>
             <div className="footerBg">
-                <img src="images/footerBg.png" className="w-100" />
+                <img src="Images/footerBg.png" className="w-100" />
             </div>
         </footer>
     );

@@ -67,7 +67,7 @@ function Myheader() {
                   <div className="innerSlide p-4 h-100">
                       <div className="my-3">
                           <a  className="d-inline-block">
-                              <img src="images/logo-white.png" className="w-100" />
+                              <img src="Images/logo-white.png" className="w-100" />
                           </a>
                       </div>
                       <div className="navList">
