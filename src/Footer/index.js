@@ -26,7 +26,7 @@ function Footer(){
                         </div>
                     </Col>
                     <Col md={4}>
-                        <div className="h-100 socialList centerCon">
+                        <div className="h-100 socialList centerCon ">
                             <a href="https://www.linkedin.com/in/roushankumar55" target="_blank" className="text-dark d-flex align-items-center justify-content-center fs-20 rounded-circle"><i className="fa fa fa-linkedin"></i></a>
                             <a href="https://github.com/roushansharma" target="_blank" className="text-dark d-flex align-items-center justify-content-center fs-20 rounded-circle"><i className="fa fa-github"></i></a> 
                         </div>

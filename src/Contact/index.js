@@ -27,7 +27,7 @@ function Contact(){
                                     <i className="fa fa-map d-flex align-items-center justify-content-center fs-24 rounded-circle"></i>
                                 </li>
                                 <li className="list-inline-item">
-                                    <h4 className="hrd-font fs-22 fw-400 mb-1">Exact Location</h4>
+                                    <h4 className="hrd-font fs-22 fw-400 mb-1">Location</h4>
                                     <p>New Delhi, India</p>
                                 </li>
                             </ul>
@@ -43,7 +43,7 @@ function Contact(){
                                 </li>
                             </ul> 
                         </div>
-                        <div className="border-bottom mb-3 mb-md-4 pb-3 pb-md-4">
+                        <div className="mb-3 mb-md-4 pb-3 pb-md-4">
                             <ul className="list-inline mb-0 locList d-flex align-items-center">
                                 <li className="list-inline-item">
                                     <i className="fa fa-envelope d-flex align-items-center justify-content-center fs-24 rounded-circle"></i>
@@ -54,17 +54,17 @@ function Contact(){
                                 </li>
                             </ul>
                         </div>
-                        <div className="mb-3 mb-md-4 pb-3 pb-md-4">
-                            <ul className="list-inline mb-0 locpList d-flex align-items-center">
+                        {/* <div className="mb-3 mb-md-4 pb-3 pb-md-4">
+                            <ul className="list-inline mb-0 locList d-flex align-items-center">
                                 <li className="list-inline-item">
                                     <i className="fa fa-globe d-flex align-items-center justify-content-center fs-24 rounded-circle"></i>
                                 </li>
-                                <li className="list-inline-item">
+                                <li className="list-inli    ne-item">
                                     <h4 className="hrd-font fs-22 fw-400 mb-1">Website Link</h4>
                                     <p><a href="#" target="_blank"  className="text-dark">roushan.com</a></p>
                                 </li>
                             </ul>
-                        </div>
+                        </div> */}
                     </Col>
                     <Col md={7} className="px-0 px-md-3">
                         <Form>
